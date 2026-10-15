@@ -3114,7 +3114,7 @@ export class LocConstants {
             loadingAzureSqlDatabase: l10n.t("Loading Azure SQL Database..."),
             azureSqlDatabaseHeader: l10n.t("Create an Azure SQL Database"),
             azureSqlDatabaseDescription: l10n.t(
-                "Try Azure SQL Database at no cost with our free tier offer! Provision a fully managed cloud database directly from VS Code.",
+                "Try Azure SQL Database at no cost with our free tier! Provision a fully managed cloud database directly from VS Code.",
             ),
             chooseDeploymentOption: l10n.t("Choose how to run Azure SQL Database"),
             localContainer: l10n.t("Local container (Preview)"),
@@ -3123,7 +3123,7 @@ export class LocConstants {
             ),
             free: l10n.t("Free"),
             freeDescription: l10n.t(
-                "Try Azure SQL Database at no cost with the free tier offer — a fully managed cloud database, ready for your app, ORM, or migration tools.",
+                "Try Azure SQL Database at no cost with the free tier — a fully managed cloud database, ready for your app, ORM, or migration tools.",
             ),
             localContainerTbd: l10n.t("TBD"),
             localContainerWizardTitle: l10n.t("(Preview) New Azure SQL Database - Container"),
@@ -3299,7 +3299,7 @@ export class LocConstants {
             continueChargesWarning: l10n.t(
                 "Your database will continue running after the free offer limit and you will be charged for overages.",
             ),
-            freeOfferApplied: l10n.t("Free offer applied"),
+            freeTierApplied: l10n.t("Free tier applied"),
             monthlyLimits: l10n.t("Monthly limits"),
             freeVCoreLimit: l10n.t("100K vCore seconds"),
             freeStorageLimit: l10n.t("32 GB storage + 32 GB backup"),

@@ -3513,7 +3513,7 @@
       </Item>
       <Item ItemId=";bundle.++CODE++1da20df88686d477364e048fe92b392449ad8e0f1226ff2903d0d54cae8a24c8" ItemType="0" PsrId="308" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Free offer applied]]></Val>
+          <Val><![CDATA[Free tier applied]]></Val>
           <Tgt Cat="Text" Stat="Loc" Orig="New">
             <Val><![CDATA[Oferta gratuita aplicada]]></Val>
           </Tgt>
@@ -24525,7 +24525,7 @@
       </Item>
       <Item ItemId=";bundle.++CODE++d7f5ff6e4dad9f838e47b0ebe6e7599c967ad07620a3329436b4887f723d649e" ItemType="0" PsrId="308" Leaf="true">
         <Str Cat="Text">
-          <Val><![CDATA[Try Azure SQL Database at no cost with our free tier offer! Provision a fully managed cloud database directly from VS Code.]]></Val>
+          <Val><![CDATA[Try Azure SQL Database at no cost with our free tier! Provision a fully managed cloud database directly from VS Code.]]></Val>
           <Tgt Cat="Text" Stat="Loc" Orig="New">
             <Val><![CDATA[Pruebe Azure SQL Database sin coste alguno con nuestra oferta de nivel Gratis. Aprovisione una base de datos en la nube totalmente administrada directamente desde VS Code.]]></Val>
           </Tgt>

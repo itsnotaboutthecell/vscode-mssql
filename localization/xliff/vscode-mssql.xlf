@@ -4945,7 +4945,7 @@
       <source xml:lang="en">Free compute &amp; storage</source>
     </trans-unit>
     <trans-unit id="++CODE++1da20df88686d477364e048fe92b392449ad8e0f1226ff2903d0d54cae8a24c8">
-      <source xml:lang="en">Free offer applied</source>
+      <source xml:lang="en">Free tier applied</source>
     </trans-unit>
     <trans-unit id="++CODE++bb2f46cfafa54c18afeb7e7efc7ccf3b2d72b160c0381d2ad116e8f7139be42d">
       <source xml:lang="en">Freeze columns</source>
@@ -10321,10 +10321,10 @@
       <source xml:lang="en">Truncate the transaction log</source>
     </trans-unit>
     <trans-unit id="++CODE++d7f5ff6e4dad9f838e47b0ebe6e7599c967ad07620a3329436b4887f723d649e">
-      <source xml:lang="en">Try Azure SQL Database at no cost with our free tier offer! Provision a fully managed cloud database directly from VS Code.</source>
+      <source xml:lang="en">Try Azure SQL Database at no cost with our free tier! Provision a fully managed cloud database directly from VS Code.</source>
     </trans-unit>
     <trans-unit id="++CODE++9066bcf86086f787cb18707f7e21b7a999aad096ef7628b8396765d020da8f97">
-      <source xml:lang="en">Try Azure SQL Database at no cost with the free tier offer — a fully managed cloud database, ready for your app, ORM, or migration tools.</source>
+      <source xml:lang="en">Try Azure SQL Database at no cost with the free tier — a fully managed cloud database, ready for your app, ORM, or migration tools.</source>
     </trans-unit>
     <trans-unit id="++CODE++54f7b4c24a0e08663b5d9d1cf65cdbb9e6e5e94413398f2480b1f2b717ab8ec4">
       <source xml:lang="en">Try adjusting your search or filters</source>

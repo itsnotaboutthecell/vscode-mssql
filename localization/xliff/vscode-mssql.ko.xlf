@@ -5858,7 +5858,7 @@ Error:
         <target state="translated">무료 컴퓨팅 및 스토리지</target>
       </trans-unit>
       <trans-unit id="++CODE++1da20df88686d477364e048fe92b392449ad8e0f1226ff2903d0d54cae8a24c8">
-        <source xml:lang="en">Free offer applied</source>
+        <source xml:lang="en">Free tier applied</source>
         <target state="translated">무료 제공 적용됨</target>
       </trans-unit>
       <trans-unit id="++CODE++bb2f46cfafa54c18afeb7e7efc7ccf3b2d72b160c0381d2ad116e8f7139be42d">
@@ -12187,7 +12187,7 @@ Are you sure you want to continue?</source>
         <target state="translated">트랜잭션 로그 잘라내기</target>
       </trans-unit>
       <trans-unit id="++CODE++d7f5ff6e4dad9f838e47b0ebe6e7599c967ad07620a3329436b4887f723d649e">
-        <source xml:lang="en">Try Azure SQL Database at no cost with our free tier offer! Provision a fully managed cloud database directly from VS Code.</source>
+        <source xml:lang="en">Try Azure SQL Database at no cost with our free tier! Provision a fully managed cloud database directly from VS Code.</source>
         <target state="translated">무료 계층 제공으로 Azure SQL Database를 무료로 사용해 보세요! VS Code에서 바로 완전 관리형 클라우드 데이터베이스를 프로비전할 수 있습니다.</target>
       </trans-unit>
       <trans-unit id="++CODE++54f7b4c24a0e08663b5d9d1cf65cdbb9e6e5e94413398f2480b1f2b717ab8ec4">
